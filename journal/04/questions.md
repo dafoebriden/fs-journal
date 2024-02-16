@@ -1,11 +1,11 @@
 # Understanding Asynchronous Code, and API's
 01. What is the difference between `asynchronous` code and `synchronous` code?
 
-  > |asynchronous just means that it is going to take some time where synchronous means that it will happen are the same time|
+  > |asynchronous just means that it is going to take some time where synchronous means that it will happen at the same time|
 
 02. What is an event listener?
 
-  > |an event listner calls a function whenever the event that you are listening changes|
+  > |an event listener calls a function whenever the event that you are listening changes|
 
 03. What does *REST* stand for, and in simple terms what does it mean??
 
